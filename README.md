@@ -5,37 +5,38 @@
 
 ### 👨‍💻 About Me
 
-- 💡 Passionate about **building real-world full-stack apps**
-- 🔧 Skilled in **Node.js**, **Express**,**React**, **MongoDB**, **MySQL**
-- 🧠 Learning scalable backend architecture & clean code
+- 💡 Passionate about **building real-world full-stack applications**
+- 🔧 Skilled in **React.js**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**
+- 🧠 Currently learning scalable backend architecture & writing clean code
 
 ---
 
 ### 🧰 Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, JWT,  
+- **Backend:** Node.js, Express.js, JWT  
 - **Database:** MongoDB, MySQL (phpMyAdmin)  
-- **Tools:** Git, GitHub, Postman, Vercel, Render
-- **Programing languages:**python , c , c++
+- **Tools:** Git, GitHub, Postman, Vercel, Render  
+- **Programming Languages:** JavaScript, Python, C, C++
 
 ---
 
 ### 🔥 Projects
 
-- 🛒 [Home Appliances & Services Platform](https://homeappliancesandservices.vercel.app/)  
-- 🤖 [Refacto – AI Reviewer](https://refacto-frontend.vercel.app/)  
-- 💬 Real-Time Chat App - Working
-- 🐞 Bug Tracker – Coming Soon
+- 🛒 [Home Appliances & Services Platform](https://homeappliancesandservices.vercel.app/) – Full-stack platform with 3 user roles and secure JWT auth  
+- 🤖 [Refacto – AI Reviewer](https://refacto-frontend.vercel.app/) – Code review app powered by Gemini API  
+- 💬 Real-Time Chat App – *Working*  
+- 🐞 Bug Tracker – *Coming Soon*
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 krunalprajapati9630@gmail.com  
-- My LinkedIn: [krunal-prajapati](https://www.linkedin.com/in/krunal-prajapati-4719b7304)
-
-
+- 📧 Email: krunalprajapati9630@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krunal-prajapati-4719b7304)
 
 ---
+
+
+[Krunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krunal-prajapati9&show_icons=true&theme=radical)
 

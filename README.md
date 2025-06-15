@@ -33,7 +33,8 @@
 ### 📫 Contact Me
 
 - 📧 krunalprajapati9630@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/krunal-prajapati-4719b7304)  
+- My LinkedIn: [krunal-prajapati](https://www.linkedin.com/in/krunal-prajapati-4719b7304)
+
 
 
 ---

@@ -23,7 +23,7 @@
 
 ### 🔥 Projects
 
-- 🛒 [Home Appliances & Services Platform](homeappliancesandservices.vercel.app)  
+- 🛒 [Home Appliances & Services Platform](https://homeappliancesandservices.vercel.app/)  
 - 🤖 [Refacto – AI Reviewer](https://refacto-frontend.vercel.app/)  
 - 💬 Real-Time Chat App - Working
 - 🐞 Bug Tracker – Coming Soon

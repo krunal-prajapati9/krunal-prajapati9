@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Krunal Prajapati</h1>
-<p align="center">🚀 MERN Stack Developer | 💻 BCA Student | 📍 Ahmedabad, India</p>
+<p align="center">🚀 MERN Stack Developer | 💻 MCA Student | 📍 Ahmedabad, India</p>
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🔥 Projects
 
-- 🛒 [SmartLiving_Store](https://smartlivingstore.vercel.app/)  
+- 🛒 [Home Appliances & Services Platform](homeappliancesandservices.vercel.app)  
 - 🤖 [Refacto – AI Reviewer](https://refacto-frontend.vercel.app/)  
 - 💬 Real-Time Chat App - Working
 - 🐞 Bug Tracker – Coming Soon

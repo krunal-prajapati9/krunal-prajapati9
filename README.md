@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Krunal Prajapati</h1>
-<p align="center">🚀 MERN Stack Developer | 💻 MCA Student | 📍 Ahmedabad, India</p>
+<p align="center">🚀 MERN Stack Developer | 💻 Student | 📍 Ahmedabad, India</p>
 
 ---
 
